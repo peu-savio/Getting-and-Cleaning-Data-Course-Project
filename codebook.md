@@ -12,7 +12,7 @@ source: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+
 Before anything, it was needed to download the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip,
 and then unzip it. As raw data, the data is split into two parts with three independent text files each. In order to make this data set clean,
 after properly loading the data, the train and test data set were merged into one. After that, activity labels once numbers were replaced by
-names and the names of Features were labelled using descriptive variable names.
+names and the features names were labelled using descriptive variable names.
 
 ## Variables
 
